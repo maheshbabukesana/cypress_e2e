@@ -1,0 +1,22 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "learning cypress_e2e_automation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshbabukesana/cypress_e2e.git"
+  },
+  "author": "Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maheshbabukesana/cypress_e2e/issues"
+  },
+  "homepage": "https://github.com/maheshbabukesana/cypress_e2e#readme",
+  "dependencies": {
+    "cypress": "^8.0.0"
+  }
+}
